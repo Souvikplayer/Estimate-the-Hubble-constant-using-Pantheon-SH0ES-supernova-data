@@ -39,6 +39,11 @@ Estimate the Hubble constant using Pantheon+SH0ES supernova data.
 - Matplotlib, SciPy
 - Astropy
 
+📦 Install dependencies with:
+
+```bash
+pip install -r requirements.txt
+```
 ---
 
 ## 📜 Summary
